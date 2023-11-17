@@ -1,0 +1,29 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.visit :hover {
+    text-decoration: underline;
+    color: aqua;
+}
+
+.upper li:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+.slide9 img:hover {
+    width: 28%;
+}
+
+.slide10 img:hover {
+    width: 28%;
+}
+
+nav ul li:hover {
+    color: black;
+    text-decoration: underline;
+    font-size: large;
+}
